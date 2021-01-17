@@ -1,0 +1,9 @@
+foc\uart_ui.o: ..\BSP\UART_UI.c
+foc\uart_ui.o: ..\BSP\Inc\UART_UI.h
+foc\uart_ui.o: ..\BSP\Inc\6Step_Lib.h
+foc\uart_ui.o: ..\BSP\Inc\stm32_nucleo_boards.h
+foc\uart_ui.o: E:\software\keil5\ARM\ARMCC\Bin\..\include\math.h
+foc\uart_ui.o: E:\software\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+foc\uart_ui.o: E:\software\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+foc\uart_ui.o: E:\software\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+foc\uart_ui.o: E:\software\keil5\ARM\ARMCC\Bin\..\include\string.h
